@@ -1,0 +1,14 @@
+run:
+Enter your height in metres: 1.75
+Enter your weight in kilograms: 73
+Your BMI is 23.836734693877553
+
+Enter your height in inches: 69
+Enter your weight in pounds: 160
+Your BMI is 23.627607851729042
+
+Enter your height in (feet only): 5
+Enter your height in (inches): 9
+Enter your weight in pounds: 160
+Your BMI is 23.627607851729042
+BUILD SUCCESSFUL (total time: 34 seconds)
